@@ -16,27 +16,27 @@ Project consists of a simple PowerShell script that walks the user through "Auto
 
 <p align="center">
 Launch the Powershell ISE in Admin Mode: <br/>
-<img src="https://drive.google.com/file/d/1f7lVQK9Z3MIkYIU4uix4sY1HhBkUT2kk/view?usp=sharing" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://drive.google.com/file/d/1f7lVQK9Z3MIkYIU4uix4sY1HhBkUT2kk/view?usp=sharing" height="100%" width="100%" alt="Launch Powershell in Admin Mode"/>
 <br />
 <br />
 Download and open the - "Adding Users to Active Directory" Script:  <br/>
-<img src="https://drive.google.com/file/d/1rrv_1GFb6Dv_FW4UkJ9dIT7g2xFexLo8/view?usp=sharing" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://drive.google.com/file/d/1rrv_1GFb6Dv_FW4UkJ9dIT7g2xFexLo8/view?usp=sharing" height="80%" width="80%" alt="Download and open - Adding Users to Active Directory Script"/>
 <br />
 <br />
 At the top - press the green arrow to run the script: <br/>
-<img src="https://drive.google.com/file/d/1mqHLXk2J-pV_rd4ThqgMwKX2Fs3aCNIb/view?usp=sharing" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/0Qu9EQr" height="80%" width="80%" alt="At the top - press the green arrow to run the script"/>
 <br />
 <br />
 Enter the department and user first and last name as see below then press enter:  <br/>
-<img src="https://drive.google.com/file/d/1tsdi_JMLOxKs1yv68lIei5YdtbdoDHeV/view?usp=sharing" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://drive.google.com/file/d/1tsdi_JMLOxKs1yv68lIei5YdtbdoDHeV/view?usp=sharing" height="80%" width="80%" alt="Enter the department and user first and last name as see below then press enter"/>
 <br />
 <br />
 Enter the user first and last name again, then press enter:  <br/>
-<img src="https://drive.google.com/file/d/1DVl3geC_PIlT2oKKrTxg7TrrSCPGox91/view?usp=sharing" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://drive.google.com/file/d/1DVl3geC_PIlT2oKKrTxg7TrrSCPGox91/view?usp=sharing" height="80%" width="80%" alt="Enter the user first and last name again, then press enter"/>
 <br />
 <br />
 There will be a printout of all the properties that have been changed and you're finished!:  <br/>
-<img src="https://drive.google.com/file/d/1o1WhKJ9TdTBcAVboArpg7adEvsHiIE-2/view?usp=sharing" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://drive.google.com/file/d/1o1WhKJ9TdTBcAVboArpg7adEvsHiIE-2/view?usp=sharing" height="80%" width="80%" alt="There will be a printout of all the properties that have been changed and you're finished!"/>
 <br />
 <br />
 
