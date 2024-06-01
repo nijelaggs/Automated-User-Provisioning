@@ -1,6 +1,6 @@
 <h1>Automated User Provisioning</h1>
 
- ### [YouTube Demonstration] - In Progress!
+
 <h2>Description</h2>
 Project consists of a simple PowerShell script that walks the user through "Automated User Provisioning", onboarding indiviudal users based on our organizations requirements. You can customize the variables in the script but this is what our organization needed. I have blurred out some variable values due to the fact that this information is sensitive and confidential. 
 
