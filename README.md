@@ -16,15 +16,15 @@ Project consists of a simple PowerShell script that walks the user through "Auto
 
 <p align="center">
 Launch the Powershell ISE in Admin Mode: <br/>
-<img src="https://drive.google.com/file/d/1f7lVQK9Z3MIkYIU4uix4sY1HhBkUT2kk/view?usp=sharing" height="100%" width="100%" alt="Launch Powershell in Admin Mode"/>
+<img src="https://drive.google.com/file/d/1f7lVQK9Z3MIkYIU4uix4sY1HhBkUT2kk/view?usp=sharing.png" height="100%" width="100%" alt="Launch Powershell in Admin Mode"/>
 <br />
 <br />
 Download and open the - "Adding Users to Active Directory" Script:  <br/>
-<img src="https://drive.google.com/file/d/1rrv_1GFb6Dv_FW4UkJ9dIT7g2xFexLo8/view?usp=sharing" height="80%" width="80%" alt="Download and open - Adding Users to Active Directory Script"/>
+<img src="https://imgur.com/a/0Qu9EQr.png" height="80%" width="80%" alt="Download and open - Adding Users to Active Directory Script"/>
 <br />
 <br />
 At the top - press the green arrow to run the script: <br/>
-<img src="https://imgur.com/a/0Qu9EQr" height="80%" width="80%" alt="At the top - press the green arrow to run the script"/>
+<img src="https://imgur.com/a/0Qu9EQr.png" height="80%" width="80%" alt="At the top - press the green arrow to run the script"/>
 <br />
 <br />
 Enter the department and user first and last name as see below then press enter:  <br/>
