@@ -21,7 +21,7 @@ Launch the Powershell ISE in Admin Mode: <br/>
 <br />
 <br />
 Download and open the - "Adding Users to Active Directory" Script:  <br/>
-<img src="https://i.imgur.com/zf4WM0w.png" height="70%" width="70%" alt="Download and open the - Adding to Active Directory Script"/>
+<img src="https://i.imgur.com/VbfK2ZA.png" height="70%" width="70%" alt="Download and open the - Adding to Active Directory Script"/>
 <br />
 <br />
 At the top - press the green arrow to run the script: <br/>
